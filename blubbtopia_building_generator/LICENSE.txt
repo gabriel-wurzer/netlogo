@@ -1,0 +1,1 @@
+this is free software based on martin winkelmayer's  diploma thesis "blubbtopia" (TU Wien, 2025)
